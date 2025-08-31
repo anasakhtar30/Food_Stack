@@ -6,7 +6,7 @@ import axios from 'axios'
 
 const Verify = () => {
 
-  const [searchParam,setSearchParams] = useSearchParams();
+  const [searchParam,setSearchParams] =  useSearchParams(); 
   const success = searchParam.get("success");
   const orderId = searchParam.get("orderId");
   const {url} = useContext(StoreContext)
