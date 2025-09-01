@@ -22,6 +22,7 @@
     align-items: start;
     gap:20px;
 }
+
 .footer-content-center{
     display:flex;
     flex-direction: column;
@@ -50,11 +51,12 @@
     margin-right: 15px;
     gap:20px
 }
-.footer-content-left p{
-    margin-top: -70px;
+.footer-content-left img {
+    margin-top: 0;   /* image normal jagah pe */
 }
-.footer-content-left img{
-    margin-top: -20px;
+
+.footer-content-left p {
+    margin-top: 0;   /* text image ke neeche aayega */
 }
 
 .footer hr{

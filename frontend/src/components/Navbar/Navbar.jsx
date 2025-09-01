@@ -23,7 +23,7 @@ const Navbar = ({ setShowLogin }) => {
   return (
     <div className="navbar">
       <Link to="/">
-        <img src={assets.meri} alt="" className="logo" />
+        <img src={assets.logo} alt="" className="logo" />
       </Link>
       <ul className="navbar-menu">
         <Link

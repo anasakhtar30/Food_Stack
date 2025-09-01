@@ -7,7 +7,7 @@ const Footer = () => {
     <div className="footer" id="footer">
       <div className="footer-content">
         <div className="footer-content-left">
-          <img src={assets.meri} alt="" />
+          <img src={assets.logo} alt="" />
           <p>
             © 2025 FoodieExpress. All rights reserved. This platform brings you
             the finest dishes from top-rated restaurants near you with fast
