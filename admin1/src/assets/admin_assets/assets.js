@@ -20,4 +20,4 @@ export const assets ={
     meri
 }
 
-export const url = 'https://food-app-clean.onrender.com'
+export const url = 'https://food-stack-backend-h7mn.onrender.com'
